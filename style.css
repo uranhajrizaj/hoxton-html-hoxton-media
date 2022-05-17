@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+menu {
+    background-color: rgb(13, 13, 29);
+    padding: 20px;
+}
+.Name{
+    font-size: 30px;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+    text-decoration: dashed;
+    font-size: 20px;
+}
+.Opsion {
+    font-size: 20px;
+    color: aliceblue;
+    padding: 20px
+}
+youtube,instagram,TikTok{
+    border-radius:10px;
+    padding: 7px;
+    margin-left: 30px;
+    box-shadow: 5px 5px rgba(176, 175, 175, 0.462);
+}
+
+
+.l2{
+    margin-top: 5px;
+    padding: 30px;
+    color: rgb(42, 64, 131);
+}
+.l3{
+    margin-top: 40px;
+    padding-left:30px;
+    color: rgb(42, 64, 131);
+}
+p{
+    padding: 10px;
+}
+.sub {
+    border: 1px solid;
+    color: rgb(159, 139, 21);
+    margin: 10px;
+    weight: 20px;
+    padding: 10px; 
+    border-radius:10px;
+    display: inline-block;
+
+  }
+  div{
+    background-color: rgb(13, 13, 29);
+    padding: 10px;
+    padding-bottom: 200px;
+
+  }
+div{
+    color: aliceblue;
+}
+.Text1{
+    font-size: 20px;
+}
+.Text3{
+    padding-left: 20px;
+}
+.about{
+    font-size: 30px;
+    padding: 20px;
+}
+.p1 {
+    padding: 20px;
+    font-size: 20px
+}
+
+.p21,.p22,.p23{
+    font-size: 20px;
+   
+    border-radius:20px;
+    margin: 10px;
+    weight: 20px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.p21,.p22, .p23{
+    box-shadow: 10px 10px rgba(176, 175, 175, 0.462);
+    margin-bottom: 250px;
+} 
